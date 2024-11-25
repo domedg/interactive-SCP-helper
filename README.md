@@ -1,2 +1,4 @@
 # interactive-SCP-helper
-Interactive Bash script for simplified SCP file transfers.
+A Bash script designed to simplify file and directory transfers using SCP (🔒 Secure Copy Protocol). 
+The script provides an interactive interface 🖥️ to guide users step-by-step, allowing for customizable default values to save time. 
+This makes it easier to perform secure file transfers 📂 without needing to memorize 🧠 lengthy SCP commands.
