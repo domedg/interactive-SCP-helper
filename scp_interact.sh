@@ -2,7 +2,7 @@
 
 # Default configuration
 #DEFAULT_USERNAME="your_default_username"
-#DEFAULT_IP="192.168.1.186"
+#DEFAULT_IP="your_default_ip"
 #DEFAULT_DESTINATION="/path/to/default/destination"
 LOG_FILE="scp_transfer.log"
 
